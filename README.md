@@ -5,4 +5,4 @@ You can [find and download it](https://www.opendesktop.org/p/1305931/) from [my 
 
 Even the desktop background, shown in the [video](https://youtu.be/x8wW0cdEJHc), has been realized as a variation of the logo used for my [YITA Page](https://www.facebook.com/ChemBioScripting) on Facebook [6].
 
-[![IMAGE ALT TEXT](https://github.com/ChemBioScripting/GRV-FlatBlue/blob/master/YouTube_Cover.jpg)](https://youtu.be/x8wW0cdEJHc " GRV-VimixGTK2Emerald | A Light Theme (Teal-Yellow) for Linux Emerald")
+[![IMAGE ALT TEXT](https://raw.githubusercontent.com/ChemBioScripting/GRV-VimixGTK2Emerald-Theme-Light/master/imgs/YouTube_Cover.png)](https://youtu.be/x8wW0cdEJHc " GRV-VimixGTK2Emerald | A Light Theme (Teal-Yellow) for Linux Emerald")
